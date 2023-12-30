@@ -22,6 +22,12 @@ body {
   font-family: monospace;
 }
 
+.videolink {
+  text-align: right;
+  font-family: monospace;
+  font-size: smaller;
+}
+
 .timeline {
   display: flex;
   flex-direction: row;
